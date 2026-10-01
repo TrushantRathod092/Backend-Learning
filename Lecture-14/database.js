@@ -1,5 +1,3 @@
-// const url = "mongodb+srv://trushantrathod1504_db_user:RZAObS4Q0T6DlRVf@backend-learn.4digjbb.mongodb.net/?appName=Backend-Learn"
-
 const dns = require("dns");
 dns.setServers(["10.66.17.53"]);
 
